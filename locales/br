@@ -1,0 +1,11 @@
+Locales['br'] = {
+  ['show_registration'] = 'Mostrar menu de cadastro',
+  ['show_active_character'] = 'Mostrar personagem ativo',
+  ['delete_character'] = 'Excluir seu personagem e criar um novo',
+  ['deleted_character'] = 'Seu personagem foi excluído.',
+  ['not_registered'] = 'Você não tem um personagem registrado.',
+  ['active_character'] = '~b~Personagem ativo:~s~ %s %s',
+  ['already_registered'] = 'Você já tem um personagem registrado.',
+  ['failed_identity'] = 'Falhou ao definir seu personagem, tente novamente mais tarde ou entre em contato com o administrador do servidor!',
+  ['create_a_character'] = 'Você tem que criar um personagem para jogar.'
+}
